@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+
+}
+body{
+    
+    overflow-x: hidden;
+}
+.upper{
+    align-items: center;
+    justify-content:space-between;
+    display: inline;
+    display: flex;
+}
+.logo{
+    position: relative;
+    left: 100px;
+}
+a{
+    text-decoration: none;
+color: black;
+}
+
+.right-nav ul{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    right: 25px;
+}
+.right-nav li{
+    color: black;
+    margin-right: 30px;
+}
+
+.maina{
+    position: relative;
+    background-color: #ffe6e0;
+    height: 100vh;
+    display: flex;
+}
+.photo{
+    /* border: 2px solid red; */
+    width: 50%;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    }
+.text{
+    /* border: 2px solid red; */
+    width: 50%;
+    position: absolute;
+    top: 200px;
+    right: 100px;
+    height: 500px;
+    }
+.loginwindow{
+    background-color: white;
+    height: 75%;
+    width: 40%;
+    position: relative;
+    left: 30%;
+}
+.lor{
+    background-color: rgb(153, 129, 99);
+    width: 100%;
+    height: 15%;
+    display: flex;
+  /* justify-content: space-between; */
+}
+h4{
+    font-size: larger;
+}
+.login{
+    position: relative;
+    background-color: white;
+width: 50%;
+    text-align: center;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+.orang{
+    background-color: orange;
+    height: 2px;
+    width: 50%;
+    position: relative;
+    transition: .5s;
+}
+.inputlogin{
+    position: relative;
+    top: 20%;
+    width: 80%;
+    transition: .5s;
+}
+.tlgn
+{
+  
+width: 100%;
+padding: 10px 0;
+margin: 5px 0;
+border-left: 0;
+border-top: 0;
+border-right: 0;
+border-bottom: 1px solid #999;
+}
+.loginbtn{
+    background-color: orange;
+    width: 85%;
+    border-radius: 30px;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient();   
+    border: 0;
+    outline: none;
+} 
+#loginb{
+    left: 50px;
+}
+#loginb{
+    left: 50px;
+}
+#register{
+    left: 750px;
+}
+.bfooter{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    position: relative;
+top: 1px;
+}
+.textf{
+
+    width: 80%;
+    height: 200px ;
+    position: relative;
+    left: 10%;
+    top: 50px;
+    display: flex;
+}
+.appf ,.logof{
+    /* border: 2px solid rgb(7, 148, 23); */
+    width: 30%; 
+    height: 130px;
+    color: white;
+}
+.linkf , .follow
+{
+    /* border: 2px solid rg
+    b(9, 7, 148); */
+    width: 20%; 
+    height: 130px;
+    color: white;
+}
+.textaf
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pf{
+    color: rgb(174, 174, 174);
+}
+.imgtf{
+    width: 35%;
+}
+.imglf{
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+.pl{
+    text-align: center;
+}
+.linef{
+
+    width: 80%;
+    height: 200px ;
+    position: relative;
+    left: 10%;
+    top: 50px;
+    display: flex;
+}
+.fline{
+    width: 80%;
+    height: 2px;
+    background-color: rgb(174, 174, 174);
+position: relative;
+left: 10%;
+}
+.cr{
+    position: relative;
+    left: 43%;
+}
+  
